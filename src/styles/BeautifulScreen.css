@@ -1,0 +1,7 @@
+.screen {
+    width: 90%;
+    text-align: right;
+    margin: 3%;
+    font-size: 2rem;
+    grid-area: res;
+  }
